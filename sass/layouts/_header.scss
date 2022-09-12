@@ -1,0 +1,38 @@
+.header{
+    margin-left: 20px;
+}
+
+.wrapper__header{
+    background: $color-brand;
+}
+
+
+.navigation__list{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    height: 80px;
+    margin: 0;  
+}
+
+
+.navigation__item{
+    list-style: none;
+    padding: 0 15px;
+    cursor: pointer;
+    font-size: 1.6rem;
+    font-weight: 500;
+    @extend %font-add
+}
+
+
+.nav-links{
+    color: $color-text-add;
+    text-decoration: none;
+}
+
+.nav-links:hover{
+    color: $color-text;
+    transition: all .3s;
+}

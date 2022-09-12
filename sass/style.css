@@ -1,0 +1,19 @@
+.text__education, .text-contact, h2 {
+  font-family: "Poppins", Verdana, sans-serif;
+}
+
+.list, .code, .navigation__item {
+  font-family: "Inter", Verdana, sans-serif;
+}
+
+.profile__subtitle, .profile-title-2, h1 {
+  font-family: "Open Sans", Verdana, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
