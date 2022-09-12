@@ -22,3 +22,24 @@
 * Git
 * Figma / Photoshop
 
+## Code Example 
+```
+function getRandomBetween (min, max){
+    return Math.floor(min + (Math.random() * (max-min+1))) 
+}
+console.log(getRandomBetween (10, 42))
+```
+
+## Education
+1. Vitebsk State Order of Peoples' Friendship Medical University, pharmaceutical faculty
+1. Udemy:
+JavaScript/react(in process)
+1. Rs-school:
+JS/FE Pre-school 2022Q2;
+1. Rs-school:
+JS / FRONT-END 2022Q3 (in process);
+
+## Languages
+1. Russian - native speaker
+1. English - B1-B2
+
