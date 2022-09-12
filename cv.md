@@ -13,3 +13,12 @@
 * Teamwork skills
 * Result Oriented
 
+## Skills
+* HTML
+* CSS
+* Sass
+* BEM
+* Basic knowledge of JavaScript
+* Git
+* Figma / Photoshop
+
