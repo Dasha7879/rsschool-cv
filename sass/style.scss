@@ -1,0 +1,32 @@
+//abstract
+@import "abstract/constants";
+@import "abstract/mixins";
+@import "abstract/placeholders";
+
+
+//base
+@import "base/base";
+@import "base/fonts";
+
+
+//layouts
+@import "layouts/header";
+@import "layouts/contact";
+@import "layouts/education";
+@import "layouts/profile";
+@import "layouts/about";
+@import "layouts/skills";
+@import "layouts/code";
+@import "layouts/projects";
+@import "layouts/languages";
+@import "layouts/footer";
+
+
+//components
+@import "components/left-side";
+@import "components/line";
+@import "components/list";
+@import "components/wrapper";
+
+
+
